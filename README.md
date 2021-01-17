@@ -1,2 +1,2 @@
-# R-Guides
-This repository lists the R statistics guides available at https://www.statology.org/.
+# R-Anleitungen
+Diese Repository enthält die R-Anleitungen verfügbar unter https://statologie.de.
